@@ -55,8 +55,6 @@ social:
     icon_pack: ai
     link: uploads/CV_xinying_cai.pdf
     label: view my resume
-    display:
-      header: true
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''

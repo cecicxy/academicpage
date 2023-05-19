@@ -30,7 +30,10 @@ abstract: Steam heating is an essential component of numerous industrial product
 # Summary. An optional shortened abstract.
 summary: Proposing a self-expansion method for realistic steam data generation using DoppelGANger model, benefiting energy management and privacy protection.
 
-tags: []
+tags: 
+- GAN
+- Time-series
+- Data generation
 
 # Display this page in the Featured widget?
 featured: true
