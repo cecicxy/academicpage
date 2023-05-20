@@ -68,7 +68,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/cecicxy'
     content_dir: content
     branch: main
   avatar:
@@ -87,7 +87,7 @@ features:
       category: ''
       category_id: ''
   search:
-    provider: wowchemy
+    provider: ''
     algolia:
       app_id: ''
       api_key: ''
