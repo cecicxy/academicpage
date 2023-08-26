@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://cecicxy.github.io/academicpage/sitemap.xml
